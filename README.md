@@ -16,15 +16,19 @@ Files
 
 
 Requirements
+
 Python 3.x, pandas, numpy, matplotlib, seaborn, scipy
 
 Key Analyses
+
   Coffee Data
+  
     Univariate analysis of production (e.g. bearing trees, bags per hectare)
     Bivariate correlations between coffee metrics and weather features (Pearson correlation)
     Trend analysis over time
   
   Weather Data
+  
     Yearly trend analysis for:
       Average temperature (temp_avg)
       Maximum rainfall (rain_max)
@@ -33,6 +37,7 @@ Key Analyses
     Pearson correlation between weather variables
 
 Key Insights
+
   Average temperature and wind speed decreased in Minas Gerais from 2006–2023.
   Average wind speed had the strongest negative impact on coffee production.
   High minimum humidity negatively correlates with coffee production.
